@@ -1,5 +1,5 @@
 # HackEliteClient
-
+Winning Project in the HackIt 2.0 24 HRS Hackathon conducted in KJ Somaiya College Computer Society on 1-2 Feb 2020
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
 ## Development server
